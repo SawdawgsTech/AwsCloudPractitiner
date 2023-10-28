@@ -1,1 +1,11 @@
-
+#cloud first steps
+i heard the island stabilization system is malfunctioning
+i think we can use amazon ec2 to solve this problem
+amazon elastic compute cloud, or amazon ec2, is a web service that provides reliable, scalable, compute capacity in the cloud so that you can launch virtual servers in mins.
+as you mentioned, devices can fail at any time. to help improve server resilence, you can use aws infrastructure to place amazon ec2 servers into two different availability zones
+an availability zone, or az, is a logical data center in an aws region that has redundant and separate power, networking, and connectivity. each az is supported by one or more physical data center.
+zone a= computational module a/amazon ebs volume 
+zone b= computational module b/amazon ebs volume
+ran by stabilization device 
+amazon elastic compute cloud overview
+ec2/ web service / resizable compute capacity / eliminates upfront hardware investment / so u can develop and deply things faster
